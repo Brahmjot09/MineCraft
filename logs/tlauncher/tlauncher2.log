@@ -1,0 +1,60 @@
+2020-09-20 18:42:10,571 main [Loading] INITIALIZING
+Starting TLauncher 2.69 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Sep 20, 2020 6:42:09 PM
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\WhiTeBeard\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 8097 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz
+ Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 4176 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2020-09-20 18:42:10,587 main [Downloader2] Loaded configuration: good
+2020-09-20 18:42:10,705 ExtendedThread#4 [Updater] Requesting an update...
+2020-09-20 18:42:10,707 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-09-20 18:42:10,708 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=c82e3a8b-40ea-4b56-99aa-2e1f95aa15f1
+2020-09-20 18:42:10,831 main [Browser] Loading resources...
+2020-09-20 18:42:10,949 main [Browser] Loading background...
+2020-09-20 18:42:11,002 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+2020-09-20 18:42:11,045 main [Browser] Cleaning up after loading:
+2020-09-20 18:42:11,045 main Starting garbage collector: 18 / 110 MB
+2020-09-20 18:42:11,092 main Garbage collector completed: 14 / 146 MB
+2020-09-20 18:42:11,093 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-09-20 18:42:11,093 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-09-20 18:42:11,094 main [Loading] LOADING_MANAGERS
+2020-09-20 18:42:11,100 main [LocalVersionList] Base directory: E:\Minecraft
+2020-09-20 18:42:11,109 main [ProfileManager] Refreshing profiles from: E:\Minecraft\TlauncherProfiles.json
+2020-09-20 18:42:11,135 main [AdvertisingStatusObserver]  started to get ad information
+2020-09-20 18:42:11,136 main [AdvertisingStatusObserver]  finished to get add information
+2020-09-20 18:42:11,137 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-09-20 18:42:11,143 main [Loading] LOADING_WINDOW
+2020-09-20 18:42:11,163 JavaFX Application Thread [Browser] Initializing...
+2020-09-20 18:42:11,240 main [Loading] PREPARING_MAINPANE
+2020-09-20 18:42:11,309 ExtendedThread#4 [Updater] Request time: 602 ms
+2020-09-20 18:42:11,310 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-09-20 18:42:11,419 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 270 ms.
+2020-09-20 18:42:12,176 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+2020-09-20 18:42:12,177 JavaFX Application Thread [Browser@1632285200] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+2020-09-20 18:42:12,241 JavaFX Application Thread [Browser] add listens into server_choose
+2020-09-20 18:42:12,242 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-09-20 18:42:12,544 main [Downloader2] Loaded configuration: good
+2020-09-20 18:42:17,481 ExtendedThread#4 [Update:2.72] Set state: DOWNLOADING
+2020-09-20 18:42:17,483 ExtendedThread#4 [Update:2.72] dest C:\Users\WhiTeBeard\AppData\Roaming\.minecraft\TLauncher.exe.update
+2020-09-20 18:42:17,484 ExtendedThread#4 [Update:2.72] url: https://securerepository.net/client/TLauncher-2.72.exe
+2020-09-20 18:42:17,485 MD#3 [Downloader2] Files in queue 1
+2020-09-20 18:42:17,485 MD#3 [Downloader2] Starting download 1 files...
+2020-09-20 18:42:17,587 DT#1#10 [D#1] >  https://securerepository.net/client/TLauncher-2.72.exe 
+2020-09-20 18:42:20,065 DT#1#10 [Update:2.72] Set state: READY
+2020-09-20 18:42:20,072 DT#1#10 [Double running] clear time label
+2020-09-20 18:42:20,073 DT#1#10 [Update:2.72] Set state: APPLYING
+2020-09-20 18:42:20,085 DT#1#10 [Bootstrapper] choose jvm for restart:C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+2020-09-20 18:42:20,135 DT#1#10 Good bye!

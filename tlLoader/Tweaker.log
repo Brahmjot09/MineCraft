@@ -1,0 +1,17 @@
+[2020-09-22 22:34:30] [main INFO] Using Tweaker
+[2020-09-22 22:34:30] [main INFO] Tweaker: acceptOptions
+[2020-09-22 22:34:30] [main INFO] Tweaker: injectIntoClassLoader
+[2020-09-22 22:34:30] [main INFO] Hook method dzb#p()Lvk; loaded.
+[2020-09-22 22:34:30] [main INFO] Hook method dzb#o()Lvk; loaded.
+[2020-09-22 22:34:30] [main INFO] Hook method dzb#u()Ljava/lang/String; loaded.
+[2020-09-22 22:34:30] [main INFO] Hook method dzb#r()Lvk; loaded.
+[2020-09-22 22:34:30] [main INFO] Hook method bft#a(Lbfu;)Z loaded.
+[2020-09-22 22:34:30] [main INFO] Hook method dov#a(Ldfj;IIF)V loaded.
+[2020-09-22 22:34:30] [main INFO] Loaded as a library.
+[2020-09-22 22:34:30] [main INFO] Tweaker: getLaunchArguments
+[2020-09-22 22:34:31] [main INFO] [TLSkinCape] Method bft.a(Lbfu;)Z successfully hooked.
+[2020-09-22 22:34:36] [Render thread INFO] [TLSkinCape] Method dov.a(Ldfj;IIF)V successfully hooked.
+[2020-09-22 22:34:36] [Render thread INFO] [TLSkinCape] Method dzb.p()Lvk; successfully hooked.
+[2020-09-22 22:34:36] [Render thread INFO] [TLSkinCape] Method dzb.o()Lvk; successfully hooked.
+[2020-09-22 22:34:36] [Render thread INFO] [TLSkinCape] Method dzb.u()Ljava/lang/String; successfully hooked.
+[2020-09-22 22:34:36] [Render thread INFO] [TLSkinCape] Method dzb.r()Lvk; successfully hooked.

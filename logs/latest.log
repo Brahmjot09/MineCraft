@@ -1,0 +1,17 @@
+[00:09:32] [Server thread/INFO]: gts lost connect[00:09:32] [main/INFO]: [CHAT] gts left the game
+[00:09:33] [main/INFO]: [CHAT] Whitebeard was blown up by Creeper
+[00:09:40] [main/INFO]: Stopping!
+Server thread/INFO]: Whitebeard lost connection: Disconnected
+[00:09:38] [Server thread/INFO]: Whitebeard left the game
+[00:09:45] [Server thread/INFO]: Stopping server
+[00:09:45] [Server thread/INFO]: Saving players
+[00:09:45] [Server thread/INFO]: Saving worlds
+[00:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world`]'/minecraft:overworld
+[00:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world`): All chunks are saved
+[00:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world`]'/minecraft:the_nether
+[00:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world`]'/minecraft:the_end
+[00:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world`): All chunks are saved
+[00:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
