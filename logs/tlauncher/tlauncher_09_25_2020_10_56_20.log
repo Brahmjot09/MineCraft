@@ -1,0 +1,254 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.72 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: Sep 25, 2020 10:56:22 AM
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 8097 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz
+ Intel(R) UHD Graphics 630, Intel(R) UHD Graphics Family, 4176 MB
+-------------------------------------------------------
+Selected locale: en_US
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.72&client=c82e3a8b-40ea-4b56-99aa-2e1f95aa15f1
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 62 / 108 MB
+Garbage collector completed: 15 / 108 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: E:\Minecraft
+[ProfileManager] Refreshing profiles from: E:\Minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 382 ms.
+[Updater] Request time: 877 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/eng.html during 1
+[Browser@159694693] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/eng.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+Started! (3419 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[TLauncher] show tlauncher!!!
+[Double running] clear time label
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 112 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 94 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 96 ms.
+[SkinVersionList] Got in 107 ms
+[ExtraVersionList] Got in 119 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 773 ms.
+[OfficialVersionList] Got in 826 ms
+[VersionManager] Versions has been refreshed (904 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 88 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 175 ms.
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.72
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+[Launcher] Force update: false
+[Launcher] Selected version: latest-release
+[Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=Whitebeard}
+[Launcher] Version sync info: VersionSyncInfo{id='1.16.3',
+local=CompleteVersion{id='1.16.3', time=Thu Sep 10 19:17:47 IST 2020, release=Thu Sep 10 19:12:37 IST 2020, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.16', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@1a5513c4, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:66.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:4.0.26', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.6.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@43ff50de, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@373675d2, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.16.3', time=Thu Sep 10 19:17:47 IST 2020, release=Thu Sep 10 19:12:37 IST 2020, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@1a5513c4}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[Launcher] Java path: C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file E:\Minecraft\assets\indexes\1.16.json
+[AssetsManager] Fast comparing: true
+[Launcher] Delta time to compare assets: 163 ms.
+[TLauncherManager] add required libraries: 1.16.3
+[VersionManager] Required for version 1.16.3: []
+[Modpack]  got container
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (22 ms)
+[Launcher] Error occurred:
+org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher$MinecraftLauncherAborted: shown skin message
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.checkExtraConditions(MinecraftLauncher.java:800)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:224)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:516)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:183)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:38)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:256)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:249)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:52)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:344)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:208)
+
+[Launcher] Launcher exited.
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.72
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+[Launcher] Force update: false
+[Launcher] Selected version: latest-release
+[Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=Whitebeard}
+[Launcher] Version sync info: VersionSyncInfo{id='1.16.3',
+local=CompleteVersion{id='1.16.3', time=Thu Sep 10 19:17:47 IST 2020, release=Thu Sep 10 19:12:37 IST 2020, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.16', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@1a5513c4, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:66.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:4.0.26', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.6.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@1eedb4e0, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@32e3851b, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.16.3', time=Thu Sep 10 19:17:47 IST 2020, release=Thu Sep 10 19:12:37 IST 2020, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@1a5513c4}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[Launcher] Java path: C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file E:\Minecraft\assets\indexes\1.16.json
+[AssetsManager] Fast comparing: true
+[Launcher] Delta time to compare assets: 49 ms.
+[TLauncherManager] add required libraries: 1.16.3
+[VersionManager] Required for version 1.16.3: []
+[Modpack]  got container
+[TLauncherManager] library will be replaced: com.mojang:authlib:1.6.25
+[TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+[TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+[TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.16.3:1.14
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx6897M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=E:\Minecraft\versions\1.16.3\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp E:\Minecraft\libraries\org\tlauncher\tl_skin_cape_1.16.3\1.14\tl_skin_cape_1.16.3-1.14.jar;E:\Minecraft\libraries\org\ow2\asm\asm-tree\6.2\asm-tree-6.2.jar;E:\Minecraft\libraries\org\ow2\asm\asm\6.2\asm-6.2.jar;E:\Minecraft\libraries\org\ow2\asm\asm-commons\6.2\asm-commons-6.2.jar;E:\Minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;E:\Minecraft\libraries\org\tlauncher\patchy\1.1\patchy-1.1.jar;E:\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;E:\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;E:\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;E:\Minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;E:\Minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;E:\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;E:\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;E:\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;E:\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;E:\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;E:\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;E:\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;E:\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;E:\Minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;E:\Minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;E:\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;E:\Minecraft\libraries\org\tlauncher\authlib\1.8.25\authlib-1.8.25.jar;E:\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;E:\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;E:\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;E:\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;E:\Minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;E:\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;E:\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;E:\Minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;E:\Minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;E:\Minecraft\versions\1.16.3\1.16.3.jar -Dminecraft.applet.TargetDirectory=E:\Minecraft -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true org.tlauncher.Launch --username Whitebeard --version 1.16.3 --gameDir E:\Minecraft --assetsDir E:\Minecraft\assets --assetIndex 1.16 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userType legacy --versionType release --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat []
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft latest-release...
+[Launcher] Launching in: E:\Minecraft
+Starting garbage collector: 175 / 210 MB
+Garbage collector completed: 38 / 210 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[10:57:00] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[10:57:00] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[10:57:00] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+Log Path: E:\Minecraft\.\tlLoader\Tweaker.log
+[main INFO] Using Tweaker
+[main INFO] Tweaker: acceptOptions
+[main INFO] Tweaker: injectIntoClassLoader
+[TLSkinCape] Current TLSkinCape version is 1.14
+[TLSkinCape] Current Minecraft version is 1.16.3.
+[main INFO] Hook method dzb#p()Lvk; loaded.
+[main INFO] Hook method dzb#o()Lvk; loaded.
+[main INFO] Hook method dzb#u()Ljava/lang/String; loaded.
+[main INFO] Hook method dzb#r()Lvk; loaded.
+[main INFO] Hook method bft#a(Lbfu;)Z loaded.
+[main INFO] Hook method dov#a(Ldfj;IIF)V loaded.
+[main INFO] Loaded as a library.
+[main INFO] Tweaker: getLaunchArguments
+[10:57:01] [main/INFO]: Launching wrapped minecraft {org.tlauncher.Main}
+[main INFO] [TLSkinCape] Method bft.a(Lbfu;)Z successfully hooked.
+[10:57:06] [main/INFO]: [STDOUT]: [Render thread INFO] [TLSkinCape] Method dov.a(Ldfj;IIF)V successfully hooked.
+[10:57:06] [main/INFO]: [STDOUT]: [Render thread INFO] [TLSkinCape] Method dzb.p()Lvk; successfully hooked.
+[10:57:06] [main/INFO]: [STDOUT]: [Render thread INFO] [TLSkinCape] Method dzb.o()Lvk; successfully hooked.
+[10:57:06] [main/INFO]: [STDOUT]: [Render thread INFO] [TLSkinCape] Method dzb.u()Ljava/lang/String; successfully hooked.
+[10:57:06] [main/INFO]: [STDOUT]: [Render thread INFO] [TLSkinCape] Method dzb.r()Lvk; successfully hooked.
+[10:57:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:57:06] [main/INFO]: Setting user: Whitebeard
+[10:57:06] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[10:57:09] [main/INFO]: Narrator library for x64 successfully loaded
+[10:57:09] [main/INFO]: Reloading ResourceManager: Default
+[10:57:09] [main/INFO]: [STDOUT]: [Connector] trying to start...
+[10:57:09] [main/INFO]: [STDOUT]: [Connector] no server info
+[10:57:09] [main/INFO]: [STDOUT]: [Connector] end
+[10:57:11] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+AL lib: (EE) ALCwasapiPlayback_resetProxy: Audio client returned buffer_len < period*2; expect break up
+[10:57:15] [main/INFO]: OpenAL initialized.
+[10:57:15] [main/INFO]: Sound engine started
+[10:57:16] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[10:57:16] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[10:57:16] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[10:57:16] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[10:57:16] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[10:57:16] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[10:57:16] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[10:57:17] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[10:57:17] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[10:57:17] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[10:57:18] [main/INFO]: [STDOUT]: [TLSkinCape] Current TLSkinCape version is 1.14
+[10:57:18] [main/INFO]: [STDOUT]: [TLSkinCape] Current Minecraft version is 1.16.3.
+[10:57:54] [main/INFO]: Connecting to 0, 25565
+[10:57:57] [Server Connector #1/ERROR]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: cracksmind.com/0.0.0.0:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_51]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:325) ~[NioSocketChannel.class:4.1.25.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:340) ~[AbstractNioChannel$AbstractNioUnsafe.class:4.1.25.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:635) ~[NioEventLoop.class:4.1.25.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:582) ~[NioEventLoop.class:4.1.25.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499) ~[NioEventLoop.class:4.1.25.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:461) ~[NioEventLoop.class:4.1.25.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) ~[SingleThreadEventExecutor$5.class:4.1.25.Final]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_51]
+Caused by: java.net.ConnectException: Connection refused: no further information
+	... 10 more
+[10:58:26] [main/INFO]: Connecting to 0, 25565
+[10:58:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:58:30] [main/INFO]: Loaded 217 advancements
+[11:00:31] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[11:01:37] [main/INFO]: [CHAT] Whitebeard has made the advancement [The Parrots and the Bats]
+[11:01:37] [main/INFO]: Loaded 217 advancements
+[11:02:33] [main/INFO]: [CHAT] Respawn point set
+[11:04:52] [main/INFO]: [CHAT] Whitebeard was shot by Skeleton
+[11:07:20] [main/INFO]: Loaded 218 advancements
+[11:07:34] [main/INFO]: Loaded 218 advancements
+[11:15:59] [main/INFO]: [CHAT] Respawn point set
+[11:16:27] [main/INFO]: [CHAT] Whitebeard was blown up by Creeper
+[11:16:28] [main/INFO]: [CHAT] You have no home bed or charged respawn anchor, or it was obstructed
+[11:16:42] [main/INFO]: Loaded 220 advancements
+[11:16:47] [main/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (4 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[TLauncherManager] before clearLibrary E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary E:\Minecraft\mods\pack.mcmeta E:\Minecraft\mods\pack.png
+flush now

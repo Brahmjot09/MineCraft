@@ -18,11 +18,11 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-mouseSensitivity:0.3497690970022918
+mouseSensitivity:0.34976908564567566
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:0.5471134246196722
+gamma:0.5471134185791016
 renderDistance:12
 entityDistanceScaling:1.0
 guiScale:0
@@ -97,8 +97,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-soundCategory_master:0.8255971
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:0.33570078
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
